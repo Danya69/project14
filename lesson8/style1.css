@@ -1,0 +1,164 @@
+.q {
+z-index: 1px;
+position: relative;
+width: 600px;   
+height: 600px;
+background-color: ;
+border-radius: 200px;
+background: rgb(255,145,0);
+background: linear-gradient(43deg, rgba(255,145,0,1) 7%, rgba(199,0,168,1) 52%, rgba(101,26,222,1) 98%);
+top: 100px;
+left: 500px;
+
+}
+.a {
+    z-index: 2px;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    border-radius: 120px;
+    border: 22px solid White;
+    left: 590px;
+    top: 260px;
+
+}
+.z {
+    z-index: 3px;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 22px solid White;
+    top: 365px;
+    left: 690px;
+
+
+}
+.w {
+    z-index: 4px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 200px;
+    border: 10px solid white;
+    background-color: White;
+    top: 310px;
+    left: 900px;
+}
+
+
+
+
+
+
+
+
+
+
+.main { 
+    width: 1000px;
+    height: 1000px;
+    border:  3px solid black;
+    display: inline-block;
+    
+
+
+}
+
+
+
+
+.d {
+background-color: black;
+width: 250px;
+height: 250px;
+
+}
+
+.c {
+background-color: red;
+width: 250px;
+height: 250px;
+
+}
+
+.r {
+background-color: yellow;
+width: 250px;
+height: 250px;
+
+}
+
+.f {
+background-color: green;
+width: 250px;
+height: 250px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
